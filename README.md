@@ -22,16 +22,16 @@ A program that automatically generates a list of ideal weather vacation spots ba
 
 ### DEPENDENCIES
 
-from datetime import datetime
-from scipy import stats
-import random
-from citipy import citipy 
-import matplotlib.pyplot
-import pandas
-import numpy
-import requests, json, re
-import gmaps
-import os
+- from datetime import datetime
+- from scipy import stats
+- import random
+- from citipy import citipy 
+- import matplotlib.pyplot
+- import pandas
+- import numpy
+- import requests, json, re
+- import gmaps
+- import os
 
 ### DATA EXPLORATION & CLEANUP
 
