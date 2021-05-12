@@ -50,6 +50,9 @@ import os
 ### DATA ANALYSIS
 
 - Plot correlation between latitude of the 500+ cities and weather conditions. Results:
+<img width="958" alt="AUTOMATED WEATHER ANALYSIS & VACATION PLANNER" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/WeatherPy/output_data/weather-conditions-vs-latitude.jpg">
 
 - Plot correlation between latitude and weather conditions, by hemisphere. Results:
+<img width="958" alt="AUTOMATED WEATHER ANALYSIS & VACATION PLANNER" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/WeatherPy/output_data/weather-conditions-vs-latitude-by-hemisphere.jpg">
+
 
