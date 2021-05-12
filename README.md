@@ -33,7 +33,7 @@ import requests, json, re
 import gmaps
 import os
 
-### DATA EXPLORATION, TRANSFORMATION & CLEANUP
+### DATA EXPLORATION & CLEANUP
 
 - Generate 1000 random latitude and longitude coordinates
 - Use Citipy to find closest city to each set of coordinates
@@ -44,15 +44,16 @@ import os
 ### DATA ANALYSIS
 
 - Plot correlation between latitude of the 500+ cities and weather conditions. Results:
+<img width="958" alt="Latitude vs Weather Conditions" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/WeatherPy/output_data/weather-conditions-vs-latitude.jpg">
 
 - Plot correlation between latitude and weather conditions, by hemisphere. Results:
+<img width="958" alt="Latitude vs Weather Conditions by Hemisphere" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/WeatherPy/output_data/weather-conditions-vs-latitude-by-hemisphere.jpg">
 
-### DATA ANALYSIS
+- Plot humidity levels with a heatmap. Results:
 
-- Plot correlation between latitude of the 500+ cities and weather conditions. Results:
-<img width="958" alt="AUTOMATED WEATHER ANALYSIS & VACATION PLANNER" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/WeatherPy/output_data/weather-conditions-vs-latitude.jpg">
-
-- Plot correlation between latitude and weather conditions, by hemisphere. Results:
-<img width="958" alt="AUTOMATED WEATHER ANALYSIS & VACATION PLANNER" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/WeatherPy/output_data/weather-conditions-vs-latitude-by-hemisphere.jpg">
+### DATA TRANSFORMATION
+- Filter climate data for ideal vacation locations based on specific climate conditions
+- Use Google Map API to find hotel names and locations, and plot them on the heatmap. Results:
+<img width="958" alt="Ideal Vacation Planner Example" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/VacationPy/screenshot_heatmap2.png">
 
 
