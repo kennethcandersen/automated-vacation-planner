@@ -1,6 +1,5 @@
 # AUTOMATED WEATHER ANALYSIS & VACATION PLANNER
-https://github.com/kennethcandersen/automated-vacation-planner/blob/main/VacationPy/screenshot_heatmap.png
-Use APIs to download data from OpenWeather and Google maps. Use Pandas to analyze weather data and plot results with heat maps in Google Maps. 
+<img width="958" alt="AUTOMATED WEATHER ANALYSIS & VACATION PLANNER" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/VacationPy/screenshot_heatmap.png">
 
 ### EXECUTIVE SUMMARY & OBJECTIVE
 
