@@ -51,7 +51,7 @@ import os
 
 - Plot humidity levels with a heatmap. Results:
 <p align="center">
-<img width="500" alt="Latitude vs Weather Conditions by Hemisphere" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/WeatherPy/output_data/weather-conditions-vs-latitude-by-hemisphere.jpg">
+<img width="500" alt="Latitude vs Weather Conditions by Hemisphere" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/VacationPy/screenshot_heatmap3.png>
 </p>
 ### DATA TRANSFORMATION
 - Filter climate data for ideal vacation locations based on specific climate conditions.
@@ -60,6 +60,6 @@ import os
 <img width="500" alt="Latitude vs Weather Conditions by Hemisphere" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/VacationPy/dataframe_example.png">
 </p>
 - Plot recommended hotel locations on the heatmap. Results:
-<img width="958" alt="Ideal Vacation Planner Example" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/VacationPy/screenshot_heatmap3.png">
+<img width="958" alt="Ideal Vacation Planner Example" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/VacationPy/screenshot_heatmap.png">
 
 
