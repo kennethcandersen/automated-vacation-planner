@@ -1,6 +1,4 @@
-<p align="center">
 # AUTOMATED WEATHER ANALYSIS & VACATION PLANNER 
-</p>
 <img width="958" alt="AUTOMATED WEATHER ANALYSIS & VACATION PLANNER" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/VacationPy/screenshot_heatmap.png">
 
 ### EXECUTIVE SUMMARY & OBJECTIVE
