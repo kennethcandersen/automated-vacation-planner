@@ -54,6 +54,6 @@ import os
 ### DATA TRANSFORMATION
 - Filter climate data for ideal vacation locations based on specific climate conditions
 - Use Google Map API to find hotel names and locations, and plot them on the heatmap. Results:
-<img width="958" alt="Ideal Vacation Planner Example" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/VacationPy/screenshot_heatmap2.png">
+<img width="958" alt="Ideal Vacation Planner Example" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/VacationPy/screenshot_heatmap.png">
 
 
