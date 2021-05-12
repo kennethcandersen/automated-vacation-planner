@@ -1,4 +1,4 @@
-# AUTOMATED WEATHER ANALYSIS & VACATION PLANNER
+<p align="center"># AUTOMATED WEATHER ANALYSIS & VACATION PLANNER </p>
 <img width="958" alt="AUTOMATED WEATHER ANALYSIS & VACATION PLANNER" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/VacationPy/screenshot_heatmap.png">
 
 ### EXECUTIVE SUMMARY & OBJECTIVE
@@ -8,7 +8,7 @@ A program that automatically generates a list of ideal weather vacation spots ba
 ### REPOSITORY NAVIGATION
 
 - [*The WeatherPy folder*](https://github.com/kennethcandersen/automated-vacation-planner/tree/main/WeatherPy) contains code to select 500+ random cities, retrieve real-time weather data for those cities using the OpenWeather API, and automatically plots the correlation between latitude and temperature, humidity, cloudiness and windspeed. 
-- [*The VacationPy*](https://github.com/kennethcandersen/automated-vacation-planner/tree/main/VacationPy) folder contains code that filters the 500+ cities for the ideal vacation location based on specified climate conditions, then plots a heatmap with hotel recommendations from the Google Maps API. 
+- [*The VacationPy folder*](https://github.com/kennethcandersen/automated-vacation-planner/tree/main/VacationPy) contains code that filters the 500+ cities for the ideal vacation location based on specified climate conditions, then plots a heatmap with hotel recommendations from the Google Maps API. 
 
 ### DATA
 - [*OpenWeather*](https://openweathermap.org/) API for weather data
@@ -53,7 +53,9 @@ import os
 <p align="center">
 <img width="500" alt="Latitude vs Weather Conditions by Hemisphere" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/VacationPy/screenshot_heatmap3.png">
 </p>
+
 ### DATA TRANSFORMATION
+
 - Filter climate data for ideal vacation locations based on specific climate conditions.
 - Use Google Map API to find hotel names and locations, and update the dataframe. Example:
 <p align="center">
