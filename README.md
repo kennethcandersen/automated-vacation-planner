@@ -1,4 +1,6 @@
-<p align="center"># AUTOMATED WEATHER ANALYSIS & VACATION PLANNER </p>
+<p align="center">
+# AUTOMATED WEATHER ANALYSIS & VACATION PLANNER 
+</p>
 <img width="958" alt="AUTOMATED WEATHER ANALYSIS & VACATION PLANNER" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/VacationPy/screenshot_heatmap.png">
 
 ### EXECUTIVE SUMMARY & OBJECTIVE
@@ -61,6 +63,7 @@ import os
 <p align="center">
 <img width="500" alt="Latitude vs Weather Conditions by Hemisphere" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/VacationPy/dataframe_example.png">
 </p>
+
 - Plot recommended hotel locations on the heatmap. Results:
 <img width="958" alt="Ideal Vacation Planner Example" src="https://github.com/kennethcandersen/automated-vacation-planner/blob/main/VacationPy/screenshot_heatmap.png">
 
